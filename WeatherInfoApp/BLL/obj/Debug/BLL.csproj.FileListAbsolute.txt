@@ -1,0 +1,14 @@
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\BLL.dll
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\BLL.pdb
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\DAL.dll
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\DAL.pdb
+E:\Ms Visual stdio\WeatherInfoApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Ms Visual stdio\WeatherInfoApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Ms Visual stdio\WeatherInfoApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Ms Visual stdio\WeatherInfoApp\BLL\obj\Debug\BLL.dll
+E:\Ms Visual stdio\WeatherInfoApp\BLL\obj\Debug\BLL.pdb
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\AutoMapper.dll
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\DAL.dll.config
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\AutoMapper.xml
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\EntityFramework.dll
+E:\Ms Visual stdio\WeatherInfoApp\BLL\bin\Debug\EntityFramework.xml
